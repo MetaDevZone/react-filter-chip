@@ -1,6 +1,6 @@
 # ReactFilterChips
 
-![Alt text](./src/Screenshot_1.png)
+![Alt text](./react-filter-chips/src/Screenshot_1.png)
 
 ## Overview
 

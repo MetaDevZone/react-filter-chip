@@ -1,7 +1,7 @@
 {
   "name": "react-filter-chips",
-  "version": "1.0.1",
-  "description": "React Filter Chips",
+  "version": "1.0.2",
+  "description": "React Filter Chips is a versatile React component for creating filter chips based on various data types like strings, numbers, dates, arrays, and booleans. It provides customizable chip styles, close icon options, and supports dynamic filtering and clearing of filters. Ideal for building interactive filter interfaces in React applications.",
   "main": "./build/index.js",
   "keywords": [],
   "scripts": {

@@ -1,7 +1,5 @@
 # ReactFilterChips
 
-![Alt text](./src/Screenshot_1.png)
-
 ## Overview
 
 The `ReactFilterChips` component provides an interactive way to display and manage filter chips in your React application. It allows users to see the applied filters and remove them individually or clear all filters at once. This component is highly customizable and supports various data types including strings, numbers, arrays, objects, booleans, and dates.

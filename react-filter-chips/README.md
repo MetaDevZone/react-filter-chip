@@ -4,6 +4,10 @@
 
 The `ReactFilterChips` component provides an interactive way to display and manage filter chips in your React application. It allows users to see the applied filters and remove them individually or clear all filters at once. This component is highly customizable and supports various data types including strings, numbers, arrays, objects, booleans, and dates.
 
+## Live Demo
+
+To test React Text Editor Kit on CodeSandbox, click [here](https://codesandbox.io/p/devbox/nk5gdm).
+
 ## Installation
 
 To install the `ReactFilterChips` component, you can use npm:
